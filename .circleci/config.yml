@@ -1,0 +1,5 @@
+parameters:
+  base_tag:
+    description:
+    type: string
+    default: 0.0.7
